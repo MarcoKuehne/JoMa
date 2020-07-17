@@ -1,10 +1,18 @@
 # JoMa
 
-How to write an R package. 
+Here are the goals of JoMa:
 
-- Get git Software/Bash/Console
-- Get github account
-- Create Repo, Assign Access Rights
-- Test git console commands (clone once, etc.) 
+- Learn to write a R function.
+- Learn to put the R function into a R package.
+- Learn to publishh a R package on github. 
 
-Now I change something.
+What we need:
+
+- git https://git-scm.com/download/win
+- github https://github.com/
+
+Steps to go:
+
+- Create repository (assign access rights for collaboration).
+- Test git console commands (clone, etc.).
+- Test github desktop app as alternative. 
